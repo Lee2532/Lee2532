@@ -4,5 +4,4 @@
 
 ![Profile views](https://gpvc.arturio.dev/Lee2532)
 
-![GitHub Trends SVG](https://api.githubtrends.io/auth/redirect?private_access=False&code=bb2eb1bd80df65940827)
-
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Lee2532/langs)](https://githubtrends.io)
