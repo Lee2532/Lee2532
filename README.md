@@ -8,9 +8,9 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lee2532&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lee2532&theme=default&utcOffset=8)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lee2532&hide_border=true&card_width=338&theme=dark)
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Lee2532/langs)](https://githubtrends.io)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lee2532&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lee2532&theme=default)
 
